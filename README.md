@@ -4,7 +4,9 @@
 
 ## Current
 
-- [Poietic](https://github.com/OpenPoiesis/Poietic-swift) – collection of tools and libraries for developing applications for systems thinking, dynamical systems modelling and simulation.
+- [Open Poiesis](https://github.com/OpenPoiesis) – collection of tools and libraries for developing applications for systems thinking, dynamical systems modelling and simulation.
+    - [PoieticCore](https://github.com/OpenPoiesis/PoieticCore): Swift library for systems modelling.
+    - [PoieticFlows](https://github.com/OpenPoiesis/PoieticFlows) – [Stock and Flow](https://en.wikipedia.org/wiki/Stock_and_flow) domain model for _PoieticCore_ library. Includes the [Poietic](https://github.com/OpenPoiesis/PoieticFlows/blob/main/Docs/Tool.md) command-line tool for working with models and running simulations.
 
 ## Past
 
