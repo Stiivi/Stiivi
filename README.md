@@ -5,9 +5,9 @@
 ## Current
 
 - [Open Poiesis](https://github.com/OpenPoiesis) – collection of tools and packages for developing applications for systems thinking, dynamical systems modelling and simulation.
-    - [PoieticCore](https://github.com/OpenPoiesis/PoieticCore): Swift package for iterative design of systems models.
-    - [PoieticFlows](https://github.com/OpenPoiesis/PoieticFlows) – Swift package for Stock and Flow domain model and simulator
-    - [PoieticTool](https://github.com/OpenPoiesis/PoieticTool): Command-line tool for editing and running Poietic models.
+    - [Poietic Core](https://github.com/OpenPoiesis/poietic-core): Swift package for iterative design of systems models.
+    - [Poietic Flows](https://github.com/OpenPoiesis/poietic-flows): Swift package for Stock and Flow domain model and simulator
+    - [Poietic Tool](https://github.com/OpenPoiesis/poietic-tool): Command-line tool for editing and running Poietic models.
 
 Looking for collaboration on the Open Poiesis project.
 
