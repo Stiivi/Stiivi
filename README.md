@@ -4,10 +4,12 @@
 
 ## Current
 
-- [Open Poiesis](https://github.com/OpenPoiesis) – collection of tools and packages for developing applications for systems thinking, dynamical systems modelling and simulation.
-    - [Poietic Core](https://github.com/OpenPoiesis/poietic-core): Swift package for iterative design of systems models.
+- [Open Poiesis](https://github.com/OpenPoiesis) – .Building Blocks of a Virtual Laboratory for Systems Thinking.
+    - **[Poietic Playground](https://github.com/openpoiesis/poietic-playground)** – Educational tool, a virtual laboratory for modelling and simulation of dynamical systems using the Stock and Flow methodology.
+    - **[Poietic Tool](https://github.com/OpenPoiesis/poietic-tool)**: Command-line tool for editing and running Poietic models.
     - [Poietic Flows](https://github.com/OpenPoiesis/poietic-flows): Swift package for Stock and Flow domain model and simulator
-    - [Poietic Tool](https://github.com/OpenPoiesis/poietic-tool): Command-line tool for editing and running Poietic models.
+    - [Poietic Core](https://github.com/OpenPoiesis/poietic-core): Swift package for iterative design of systems models.
+
 
 Looking for collaboration on the Open Poiesis project.
 
@@ -15,7 +17,7 @@ Looking for collaboration on the Open Poiesis project.
 
 - [Cubes](https://github.com/DataBrewery/cubes) – lightweight Python OLAP library and server.
 - [Expressions](https://github.com/DataBrewery/expressions) – arithmetic expression parsing and conversion.
-- [Bubbles](https://github.com/Stiivi/bubbles) – Python ETL library.
+- [Bubbles](https://github.com/Stiivi/bubbles) – Experimental python ETL library.
 - [StepTalk](https://github.com/Stiivi/StepTalkLegacy) – Smalltalk Scripting for Objective C and GNUstep.
 
 The above projects are not maintained any more.
